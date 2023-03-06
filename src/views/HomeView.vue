@@ -24,15 +24,9 @@
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
   .container {
     font-family: 'Noto Sans KR', sans-serif;
-     width: 100%;
-     height: 100%;
-     display: flex;
-     justify-content: center;
-     align-items: center;
   }
   .embed-container {
-     width: 100%;
-     max-width: 430px;
+     width: 100vw;
      height: 7350px;
      max-height: max-content;
      display: flex;
